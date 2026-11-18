@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://olgarkadieva-byte.github.io/sitemap.xml
-Sitemap: https://olgarkadieva-byte.github.io/ai-governance-measurement-kit/sitemap.xml
+Sitemap: https://olgarkadieva-byte.github.io/ai-governance-kit/sitemap.xml
