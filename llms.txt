@@ -9,7 +9,7 @@
 - Privacy engineering at scale: privacy and consent rules built into data collection across 10+ engineering teams and 15+ vendors, under GDPR, CCPA and COPPA, for streaming products in 25+ international regions.
 - Data platforms and measurement infrastructure: instrumentation for billions of telemetry events across 20+ device platforms.
 - AI agent identity and authorization: least-privilege access for agents, consent versus authorization, and controls enforced outside the model.
-- Engineering leadership: leads a team of 10 engineers and engineering managers; two-time Manager of the Year.
+- Engineering leadership: leads a team of 10 engineers and engineering managers.
 
 ## Profiles
 
