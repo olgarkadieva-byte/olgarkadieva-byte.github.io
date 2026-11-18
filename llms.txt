@@ -1,13 +1,13 @@
 # Olga Arkadieva
 
-> Olga Arkadieva is an engineering leader in AI governance, AI measurement and evaluation, and privacy engineering, based in the San Francisco Bay Area. She holds the IAPP AI Governance Professional (AIGP) certification and is an AI advisor to the University of San Francisco.
+> Olga Arkadieva is an engineering leader in AI governance and AI measurement and evaluation, based in the San Francisco Bay Area. She holds the IAPP AI Governance Professional (AIGP) certification and is an AI advisor to the University of San Francisco.
 
 ## What she leads
 
 - AI governance programs: AI system inventories, risk assessment, and controls mapped to the NIST AI RMF, ISO/IEC 42001 and the EU AI Act, including controls for AI agents.
-- AI measurement and evaluation: AI telemetry built from scratch for 20+ internal AI tools, measuring adoption, task success, time saved and engineering ROI.
-- Privacy engineering at scale: privacy and consent rules built into data collection across 10+ engineering teams and 15+ vendors, under GDPR, CCPA and COPPA, for streaming products in 25+ international regions.
-- Data platforms and measurement infrastructure: instrumentation for billions of telemetry events across 20+ device platforms.
+- AI measurement and evaluation: telemetry and metrics for internal AI tools, covering adoption, task success, time saved and engineering ROI.
+- Data governance and compliance: privacy, consent and regulatory requirements built into how data is collected and used, across engineering teams and vendors.
+- Data platforms and measurement infrastructure: instrumentation and pipelines for large-scale product telemetry.
 - AI agent identity and authorization: least-privilege access for agents, consent versus authorization, and controls enforced outside the model.
 - Engineering leadership: leads a team of 10 engineers and engineering managers.
 
