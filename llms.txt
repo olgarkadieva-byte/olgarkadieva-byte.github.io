@@ -20,7 +20,8 @@
 
 ## Open source
 
-- [AI Governance & Measurement Kit](https://github.com/olgarkadieva-byte/ai-governance-measurement-kit): 34 AI controls, including 8 for AI agents, mapped to NIST AI RMF, ISO/IEC 42001 and the EU AI Act, with a risk scoring model, an AI tool telemetry spec and a tested Python package. [Documentation](https://olgarkadieva-byte.github.io/ai-governance-measurement-kit/).
+- [AI Impact Measurement](https://github.com/olgarkadieva-byte/ai-impact-measurement): measures what each AI tool actually changed (adoption, task success, time saved, cost, ROI and payback) against a control group using difference-in-differences, with 95% ranges and a keep / fix / retire verdict. Python package plus an in-browser [live demo](https://olgarkadieva-byte.github.io/ai-impact-measurement/) that uploads no data.
+- [AI Governance Kit](https://github.com/olgarkadieva-byte/ai-governance-kit): 34 AI controls, including 8 for AI agents, mapped to NIST AI RMF, ISO/IEC 42001 and the EU AI Act, with an AI risk scoring model, EU AI Act tier screening and a tested Python package. [Documentation](https://olgarkadieva-byte.github.io/ai-governance-kit/).
 - [AI Governance Starter Kit for Notion](https://smartailayer.notion.site/AI-Governance-Starter-Kit-3f0e47a9275080e480efd72a57a9442d): a free, no-code version of the same controls and risk assessment.
 
 ## Writing
