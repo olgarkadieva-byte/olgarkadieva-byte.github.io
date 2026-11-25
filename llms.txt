@@ -5,9 +5,9 @@
 ## What she leads
 
 - AI governance programs: AI system inventories, risk assessment, and controls mapped to the NIST AI RMF, ISO/IEC 42001 and the EU AI Act, including controls for AI agents.
-- AI measurement and evaluation: telemetry and metrics for internal AI tools, covering adoption, task success, time saved and engineering ROI.
+- AI measurement and evaluation: evaluating AI tools and agents, covering adoption, task success, time saved and ROI, measured against a control group.
 - Data governance and compliance: privacy, consent and regulatory requirements built into how data is collected and used, across engineering teams and vendors.
-- Data platforms and measurement infrastructure: instrumentation and pipelines for large-scale product telemetry.
+- Data platforms and measurement infrastructure: data platforms, data contracts and pipelines for large-scale product analytics.
 - AI agent identity and authorization: least-privilege access for agents, consent versus authorization, and controls enforced outside the model.
 - Engineering leadership: leads a team of 10 engineers and engineering managers.
 
